@@ -1,0 +1,9 @@
+{
+  "name": "sitemap-excel",
+  "version": "1.0.0",
+  "description": "Generiert eine Excel-Datei für die Sitemap-Struktur",
+  "main": "excel-generator.js",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
